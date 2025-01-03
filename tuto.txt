@@ -1,0 +1,1 @@
+useRef pour récupérer ce qui est tapé dans le #inputMessage
